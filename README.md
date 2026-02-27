@@ -1,4 +1,4 @@
-# 🏨 Hotel Review Sentiment Analysis
+## Hotel Review Sentiment Analysis
 
 ## 📌 Project Overview
 Customer reviews play a crucial role in understanding hotel service quality and guest satisfaction.  
